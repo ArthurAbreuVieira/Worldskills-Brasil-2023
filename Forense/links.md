@@ -9,3 +9,5 @@ PROGRAMAS (BRIM) -> [https://drive.google.com/drive/u/1/folders/1868WxlmAiV_qHVM
 SANS_DFPS_FOR508_v4.10_02-23.pdf -> [https://sansorg.egnyte.com/dd/oQm41D67D6/](https://sansorg.egnyte.com/dd/oQm41D67D6/)
 
 Eric Zimmerman Tools -> [https://ericzimmerman.github.io/#!index.md](https://ericzimmerman.github.io/#!index.md)
+
+wireshark-cheat-sheet -> [https://www.comparitech.com/net-admin/wireshark-cheat-sheet/](https://www.comparitech.com/net-admin/wireshark-cheat-sheet/)
