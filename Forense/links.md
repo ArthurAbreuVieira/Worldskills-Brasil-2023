@@ -7,3 +7,5 @@ volatility -> [https://blog.onfvp.com/post/volatility-cheatsheet/](https://blog.
 PROGRAMAS (BRIM) -> [https://drive.google.com/drive/u/1/folders/1868WxlmAiV_qHVMMX74U8KNRYf8nTGgF](https://drive.google.com/drive/u/1/folders/1868WxlmAiV_qHVMMX74U8KNRYf8nTGgF)
 
 SANS_DFPS_FOR508_v4.10_02-23.pdf -> [https://sansorg.egnyte.com/dd/oQm41D67D6/](https://sansorg.egnyte.com/dd/oQm41D67D6/)
+
+Eric Zimmerman Tools -> [https://ericzimmerman.github.io/#!index.md](https://ericzimmerman.github.io/#!index.md)
