@@ -17,4 +17,6 @@ stegno cheat sheet -> [https://stegonline.georgeom.net/checklist](https://stegon
 
 
 # Instalar Voltomatic
+```bash
 curl https://raw.githubusercontent.com/ArthurAbreuVieira/Voltomatic/master/voltomatic.sh?token=GHSAT0AAAAAACHTORZVX7KV6GGDIATCJ2OQZIGOSQQ > voltomatic.sh && chmod +x voltomatic.sh
+```
