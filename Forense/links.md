@@ -13,3 +13,8 @@ Eric Zimmerman Tools -> [https://ericzimmerman.github.io/#!index.md](https://eri
 wireshark-cheat-sheet -> [https://www.comparitech.com/net-admin/wireshark-cheat-sheet/](https://www.comparitech.com/net-admin/wireshark-cheat-sheet/)
 
 stegno cheat sheet -> [https://stegonline.georgeom.net/checklist](https://stegonline.georgeom.net/checklist)
+
+
+
+# Instalar Voltomatic
+curl https://raw.githubusercontent.com/ArthurAbreuVieira/Voltomatic/master/voltomatic.sh?token=GHSAT0AAAAAACHTORZVX7KV6GGDIATCJ2OQZIGOSQQ > voltomatic.sh && chmod +x voltomatic.sh
